@@ -1,4 +1,12 @@
 {
+  "name": "catdeployment",
+  "version": "1.0.0",
+  "description": "Description of your app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+
   "dependencies": {
     "express": "^4.19.2"
   }
