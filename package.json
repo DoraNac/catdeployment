@@ -1,7 +1,7 @@
 {
   "name": "catdeployment",
   "version": "1.0.0",
-  "description": "Description of your app",
+  "description": "deployment",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
